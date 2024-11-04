@@ -1,0 +1,213 @@
+{
+  "IcoMoonType": "selection",
+  "icons": [
+    {
+      "icon": {
+        "paths": [
+          "M380.721 249.436h420.102M380.721 249.436h-210.052c-27.854 0-54.568 11.065-74.264 30.761s-30.761 46.41-30.761 74.264v525.127c0 27.857 11.065 54.571 30.761 74.268 19.696 19.692 46.41 30.759 74.264 30.759h840.203c27.857 0 54.571-11.067 74.268-30.759 19.696-19.696 30.759-46.411 30.759-74.268v-525.127c0-27.854-11.063-54.568-30.759-74.264s-46.411-30.761-74.268-30.761h-630.152zM380.721 249.436v-178.543c0-8.356 3.319-16.371 9.228-22.279s13.924-9.228 22.278-9.228h357.088c8.357 0 16.372 3.32 22.28 9.228s9.228 13.923 9.228 22.279v178.543h-420.102z"
+        ],
+        "attrs": [
+          {
+            "fill": "none",
+            "strokeLinejoin": "miter",
+            "strokeLinecap": "butt",
+            "strokeMiterlimit": "4",
+            "strokeWidth": 78.76923076923077
+          }
+        ],
+        "width": 1182,
+        "isMulticolor": false,
+        "isMulticolor2": false,
+        "grid": 0,
+        "tags": [
+          "Vector (1)"
+        ]
+      },
+      "attrs": [
+        {
+          "fill": "none",
+          "strokeLinejoin": "miter",
+          "strokeLinecap": "butt",
+          "strokeMiterlimit": "4",
+          "strokeWidth": 78.76923076923077
+        }
+      ],
+      "properties": {
+        "order": 5,
+        "id": 0,
+        "name": "Bag",
+        "prevSize": 32
+      },
+      "setIdx": 0,
+      "setId": 4,
+      "iconIdx": 0
+    },
+    {
+      "icon": {
+        "paths": [
+          "M967.113 967.113h-910.222v-910.222",
+          "M56.89 768l455.11-426.667 170.667 170.667 256-256"
+        ],
+        "attrs": [
+          {
+            "fill": "none",
+            "strokeLinejoin": "round",
+            "strokeLinecap": "round",
+            "strokeMiterlimit": "4",
+            "strokeWidth": 85.33333333333333
+          },
+          {
+            "fill": "none",
+            "strokeLinejoin": "round",
+            "strokeLinecap": "round",
+            "strokeMiterlimit": "4",
+            "strokeWidth": 85.33333333333333
+          }
+        ],
+        "isMulticolor": false,
+        "isMulticolor2": false,
+        "grid": 0,
+        "tags": [
+          "Group (9)"
+        ]
+      },
+      "attrs": [
+        {
+          "fill": "none",
+          "strokeLinejoin": "round",
+          "strokeLinecap": "round",
+          "strokeMiterlimit": "4",
+          "strokeWidth": 85.33333333333333
+        },
+        {
+          "fill": "none",
+          "strokeLinejoin": "round",
+          "strokeLinecap": "round",
+          "strokeMiterlimit": "4",
+          "strokeWidth": 85.33333333333333
+        }
+      ],
+      "properties": {
+        "order": 4,
+        "id": 1,
+        "name": "Analytic",
+        "prevSize": 32
+      },
+      "setIdx": 1,
+      "setId": 3,
+      "iconIdx": 0
+    },
+    {
+      "icon": {
+        "paths": [
+          "M952.887 568.892v364.087c0 9.054-3.597 17.737-9.997 24.137s-15.083 9.997-24.137 9.997h-728.176c-9.053 0-17.735-3.597-24.136-9.997s-9.997-15.083-9.997-24.137v-364.087M42.667 369.78l512-312.889 512 312.889h-1024z"
+        ],
+        "attrs": [
+          {
+            "fill": "none",
+            "strokeLinejoin": "round",
+            "strokeLinecap": "round",
+            "strokeMiterlimit": "4",
+            "strokeWidth": 85.33333333333333
+          }
+        ],
+        "width": 1109,
+        "isMulticolor": false,
+        "isMulticolor2": false,
+        "grid": 0,
+        "tags": [
+          "Vector (2)"
+        ]
+      },
+      "attrs": [
+        {
+          "fill": "none",
+          "strokeLinejoin": "round",
+          "strokeLinecap": "round",
+          "strokeMiterlimit": "4",
+          "strokeWidth": 85.33333333333333
+        }
+      ],
+      "properties": {
+        "order": 3,
+        "id": 0,
+        "name": "Homes",
+        "prevSize": 32
+      },
+      "setIdx": 1,
+      "setId": 3,
+      "iconIdx": 1
+    },
+    {
+      "icon": {
+        "paths": [
+          "M671.29 989.867h-318.58M671.29 989.867v-446.034c0-8.448-3.359-16.551-9.332-22.528-5.973-5.973-14.077-9.329-22.528-9.329h-254.86c-8.451 0-16.555 3.355-22.528 9.329-5.973 5.977-9.332 14.080-9.332 22.528v446.034M671.29 989.867h286.72c8.448 0 16.551-3.355 22.525-9.332 5.977-5.973 9.332-14.077 9.332-22.528v-122.126c0-8.451-3.355-16.555-9.332-22.531-5.973-5.973-14.077-9.329-22.525-9.329h-254.863c-8.448 0-16.551 3.355-22.528 9.329-5.973 5.977-9.329 14.080-9.329 22.531v153.986zM352.71 989.867v-260.185c0-8.451-3.355-16.555-9.329-22.528-5.976-5.977-14.079-9.332-22.528-9.332h-254.862c-8.449 0-16.552 3.355-22.527 9.332-5.975 5.973-9.331 14.077-9.331 22.528v228.325c0 8.451 3.356 16.555 9.331 22.528 5.974 5.977 14.078 9.332 22.527 9.332h286.719zM448.604 146.281l48.265-102.322c1.3-2.925 3.424-5.41 6.11-7.153s5.82-2.672 9.021-2.672c3.202 0 6.335 0.928 9.021 2.672s4.809 4.228 6.11 7.153l48.319 102.322 107.892 16.514c13.858 2.124 19.381 19.965 9.346 30.161l-78.053 79.648 18.425 112.465c2.335 14.442-12.107 25.487-24.532 18.637l-96.529-53.098-96.529 53.098c-12.37 6.796-26.866-4.195-24.532-18.637l18.425-112.465-78.051-79.648c-10.088-10.195-4.513-28.036 9.292-30.161l107.999-16.514z"
+        ],
+        "attrs": [
+          {
+            "fill": "none",
+            "strokeLinejoin": "round",
+            "strokeLinecap": "round",
+            "strokeMiterlimit": "4",
+            "strokeWidth": 68.26666666666667
+          }
+        ],
+        "isMulticolor": false,
+        "isMulticolor2": false,
+        "grid": 0,
+        "tags": [
+          "Vector (3)"
+        ]
+      },
+      "attrs": [
+        {
+          "fill": "none",
+          "strokeLinejoin": "round",
+          "strokeLinecap": "round",
+          "strokeMiterlimit": "4",
+          "strokeWidth": 68.26666666666667
+        }
+      ],
+      "properties": {
+        "order": 2,
+        "id": 0,
+        "name": "Achivements",
+        "prevSize": 32
+      },
+      "setIdx": 2,
+      "setId": 2,
+      "iconIdx": 0
+    }
+  ],
+  "height": 1024,
+  "preferences": {
+    "showGlyphs": true,
+    "showQuickUse": true,
+    "showQuickUse2": true,
+    "showSVGs": true,
+    "fontPref": {
+      "prefix": "icon-",
+      "metadata": {
+        "fontFamily": "icomoon"
+      },
+      "metrics": {
+        "emSize": 1024,
+        "baseline": 6.25,
+        "whitespace": 50
+      },
+      "embed": false
+    },
+    "imagePref": {
+      "prefix": "icon-",
+      "png": true,
+      "useClassSelector": true,
+      "color": 0,
+      "bgColor": 16777215,
+      "classSelector": ".icon",
+      "name": "icomoon"
+    },
+    "historySize": 50,
+    "showCodes": true,
+    "gridSize": 16
+  }
+}
