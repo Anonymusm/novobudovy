@@ -136,6 +136,21 @@ a {
   left: 10px;
 }
 
+.philosophy {
+  display: flex;
+  width: 1280px;
+  height: 630px;
+  background-image: url(../images/philosophy-bg.png);
+}
+
+.philosophy-con {
+  padding: 45px 161px;
+  width: 1280px;
+  height: 340px;
+  background: #fcfcfb;
+  opacity: 0.9;
+}
+
 .apartment {
   padding-top: 24px;
   padding-bottom: 40px;
