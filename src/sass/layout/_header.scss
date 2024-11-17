@@ -1,4 +1,55 @@
-// Меланія,коли будеш писати,то видаль цей коментар та пиши свій хедер зверху. Якщо-що що,то ниже стилі модалки,їх не видаляти!!!
+.logo{
+  font-style: Quicksand;
+  font-size: 17px;
+  max-width: 70px;
+  font-weight: 300;
+}
+.navigation-list{
+  display: flex;
+  margin-left: 150px;
+  margin-right: 150px;
+  gap: 70px;
+}
+
+a{
+  text-decoration: none;
+  color: white;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 10px;
+  background: linear-gradient(to right, #a18b68, #37392c);
+  color: white;
+  justify-content: center;
+}
+
+.navigation-list__item{
+  color: var(--button-background, #FCFCFB);
+  font-family: Inter;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 310;
+  line-height: normal;
+text-decoration: none;
+color: white;
+}
+
+.header-btn {
+  padding: 10px 20px;
+  border: 1px solid white;
+  border-radius: 5px;
+  background-color: #37392c00;
+  text-decoration: none;
+  color: white;
+  font-family: Inter;
+  font-weight: 310;
+  width: 200px;
+}
+
+
 .backdrop {
   position: fixed;
   left: 50%;
@@ -91,3 +142,4 @@
   top: 32px;
   left: 10px;
 }
+
